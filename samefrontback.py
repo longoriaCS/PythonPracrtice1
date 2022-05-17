@@ -1,4 +1,4 @@
-#given a list of integers, return True if the length of the list is greater than or equal to 1 AND
+#given a list of integers, return True if the length of the list is greater than 1 AND
 #the first element and the last element are equal
 #complete the function as your answer
 def sameFrontBack(numbers):
